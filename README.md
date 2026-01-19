@@ -15,6 +15,7 @@ Proyek ini dikembangkan sebagai bagian dari **Tugas Akhir (Skripsi)** Program St
 ---
 
 ## 📊 Dataset
+- **Tautan data:** https://data.mendeley.com/datasets/992mh7dk9y/2
 - **Jenis data:** Klaim asuransi kendaraan bermotor  
 - **Target:** Indikasi fraud (0 = Non-Fraud, 1 = Fraud)  
 - **Karakteristik data:**
